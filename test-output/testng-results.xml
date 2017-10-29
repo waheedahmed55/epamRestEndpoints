@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4003" started-at="2017-10-29T02:22:15Z" finished-at="2017-10-29T02:22:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4003" started-at="2017-10-29T02:22:15Z" finished-at="2017-10-29T02:22:19Z">
+      <class name="com.epam.rest.PlanetTest">
+        <test-method status="PASS" signature="testPlanetCount()[pri:0, instance:com.epam.rest.PlanetTest@2344fc66]" name="testPlanetCount" duration-ms="740" started-at="2017-10-28T22:22:15Z" finished-at="2017-10-28T22:22:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPlanetCount -->
+        <test-method status="PASS" signature="testPlanetNext()[pri:0, instance:com.epam.rest.PlanetTest@2344fc66]" name="testPlanetNext" duration-ms="255" started-at="2017-10-28T22:22:15Z" finished-at="2017-10-28T22:22:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPlanetNext -->
+        <test-method status="PASS" signature="testPlanetNotFound()[pri:0, instance:com.epam.rest.PlanetTest@2344fc66]" name="testPlanetNotFound" duration-ms="645" started-at="2017-10-28T22:22:16Z" finished-at="2017-10-28T22:22:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPlanetNotFound -->
+        <test-method status="PASS" signature="testPlanetSecondName()[pri:0, instance:com.epam.rest.PlanetTest@2344fc66]" name="testPlanetSecondName" duration-ms="330" started-at="2017-10-28T22:22:16Z" finished-at="2017-10-28T22:22:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPlanetSecondName -->
+        <test-method status="PASS" signature="testPlanetString()[pri:0, instance:com.epam.rest.PlanetTest@2344fc66]" name="testPlanetString" duration-ms="486" started-at="2017-10-28T22:22:17Z" finished-at="2017-10-28T22:22:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPlanetString -->
+        <test-method status="PASS" signature="testPlanetURL()[pri:0, instance:com.epam.rest.PlanetTest@2344fc66]" name="testPlanetURL" duration-ms="380" started-at="2017-10-28T22:22:17Z" finished-at="2017-10-28T22:22:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPlanetURL -->
+        <test-method status="PASS" signature="testPlanetWrongCount()[pri:0, instance:com.epam.rest.PlanetTest@2344fc66]" name="testPlanetWrongCount" duration-ms="361" started-at="2017-10-28T22:22:18Z" finished-at="2017-10-28T22:22:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPlanetWrongCount -->
+        <test-method status="PASS" signature="testStatusForALLPlanets()[pri:0, instance:com.epam.rest.PlanetTest@2344fc66]" name="testStatusForALLPlanets" duration-ms="266" started-at="2017-10-28T22:22:18Z" finished-at="2017-10-28T22:22:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusForALLPlanets -->
+        <test-method status="PASS" signature="testStatusForPlanetWithId()[pri:0, instance:com.epam.rest.PlanetTest@2344fc66]" name="testStatusForPlanetWithId" duration-ms="501" started-at="2017-10-28T22:22:18Z" finished-at="2017-10-28T22:22:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusForPlanetWithId -->
+      </class> <!-- com.epam.rest.PlanetTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
